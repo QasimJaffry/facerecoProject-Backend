@@ -115,7 +115,7 @@ application.get('/profile/:id', (req, res) => {
 	}).catch(err => res.status(400).json("Not found"))
 	
 })
-application.listen(3001,() => {
+application.listen(process.env.PORT || 3001,() => {
 	console.log("Working");
 })
 
