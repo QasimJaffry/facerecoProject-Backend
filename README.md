@@ -6,5 +6,5 @@ Link to website:
       https://facereconproject.herokuapp.com/
       
 Link to front-end:
-      
+      https://github.com/QasimJaffry/facerecoProject-FRONTEND
 
